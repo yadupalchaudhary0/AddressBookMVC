@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|c:\\users\\tapan khandelwal\\source\\repos\\addressbookmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Migrations\\20251216154123_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251216154123_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|c:\\users\\tapan khandelwal\\source\\repos\\addressbookmvc\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|c:\\users\\tapan khandelwal\\source\\repos\\addressbookmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|c:\\users\\tapan khandelwal\\source\\repos\\addressbookmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|c:\\users\\tapan khandelwal\\source\\repos\\addressbookmvc\\models\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265EE1DF-72E5-4785-94CF-7B2BCFBA51C0}|AddressBookMVC.csproj|solutionrelative:models\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251216154123_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Migrations\\20251216154123_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251216154123_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Migrations\\20251216154123_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251216154123_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:41:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:08:52.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:58:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T14:58:23.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressBookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Models\\AddressBookContext.cs",
+              "RelativeDocumentMoniker": "Models\\AddressBookContext.cs",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Models\\AddressBookContext.cs",
+              "RelativeToolTip": "Models\\AddressBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:57:57.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Tapan khandelwal\\source\\repos\\AddressBookMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:56:55.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
